@@ -46,7 +46,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020000;
         public static final int ic_menu_color_palette=0x7f020001;
         public static final int ic_menu_color_palette_holo_light=0x7f020002;
-        public static final int icon=0x7f020003;
     }
     public static final class id {
         public static final int buttonbar=0x7f050005;
@@ -125,7 +124,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name android:showDialogTitle
+          @attr name afzkl.development.colorpickerview.demo:showDialogTitle
         */
         public static final int ColorPickerPreference_showDialogTitle = 0;
         /**
@@ -136,7 +135,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name android:showSelectedColorInList
+          @attr name afzkl.development.colorpickerview.demo:showSelectedColorInList
         */
         public static final int ColorPickerPreference_showSelectedColorInList = 1;
         /** Attributes that can be used with a ColorPickerView.
@@ -166,7 +165,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name android:alphaChannelText
+          @attr name afzkl.development.colorpickerview.demo:alphaChannelText
         */
         public static final int ColorPickerView_alphaChannelText = 1;
         /**
@@ -177,7 +176,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name android:alphaChannelVisible
+          @attr name afzkl.development.colorpickerview.demo:alphaChannelVisible
         */
         public static final int ColorPickerView_alphaChannelVisible = 0;
         /**
@@ -189,7 +188,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name android:colorPickerBorderColor
+          @attr name afzkl.development.colorpickerview.demo:colorPickerBorderColor
         */
         public static final int ColorPickerView_colorPickerBorderColor = 3;
         /**
@@ -201,7 +200,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name android:colorPickerSliderColor
+          @attr name afzkl.development.colorpickerview.demo:colorPickerSliderColor
         */
         public static final int ColorPickerView_colorPickerSliderColor = 2;
     };
