@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\cygwin64\home\pjw\java\Intervals\color-picker-view\library\assets"/><source path="C:\cygwin64\home\pjw\java\Intervals\color-picker-view\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\cygwin64\home\pjw\java\Intervals\color-picker-view\library\src\debug\assets"/></dataSet></merger>
